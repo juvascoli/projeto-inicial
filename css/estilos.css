@@ -30,3 +30,13 @@ h1{
 h2{
     font-family:Georgia, 'Times New Roman', Times, serif
 }
+
+nav ul li {
+    font-weight: bold;
+}
+
+
+.container {
+    padding: 20px;
+}
+
