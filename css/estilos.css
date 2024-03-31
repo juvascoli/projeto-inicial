@@ -1,6 +1,6 @@
 
 header{
-    background-color: SS;
+    background-color: blue;
 }
 
 h1{
@@ -13,7 +13,7 @@ h2{
     font-family:Arial, Helvetica, sans-serif
 }
 
-#menu ul li{
+.menu ul li{
     font-weight: bolder;
 }
 
@@ -27,3 +27,10 @@ h2{
 
 }
 
+
+
+form{
+    border: solid 1px gray;
+    padding:10px;
+
+}
