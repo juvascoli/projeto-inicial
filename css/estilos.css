@@ -22,10 +22,11 @@ nav ul li{
 
 .conteudo{
     line-height: 1.5;
+    padding-bottom: 100px;
 
 }
 
-button {
+button{
     background-color: #6144F7;
     color:white;
 }
@@ -37,9 +38,12 @@ form{
 }
 
 p{
-    color: green;
+    color: #80F744;
 }
 
 footer{
-    border-top: solid 2px red;
+    padding-top: 10px;
+    border-top: solid 2px #AA0000;
+    border-radius: 15px;
+    border-color: red;
 }
